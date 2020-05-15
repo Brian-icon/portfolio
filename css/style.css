@@ -1,0 +1,93 @@
+body{
+  margin:0;
+  text-align: center;
+  background-color: #ABF0E9;
+
+}
+h1{
+  margin-top: 0;
+  margin:0 auto 0 auto;
+  font-size: 90px;
+  text-color:#66BFBF;
+  font-family: algerian;
+}
+h2{
+  font-family: algerian;
+}
+h3{
+  font-size: 40px;
+  font-family: algerian;
+}
+p{
+  text-color:#66BFBF;
+  font-weight: normal;
+  line-height: 2;
+  font-family: times new roman;
+  font-size: 25px;
+}
+
+.top-container {
+  background-color: #abf0e9;
+  padding-top:100px;
+  position:relative;
+}
+.middle-container{
+  margin-top: 30px;
+}
+.bottom-container{
+  margin-top: 30px;
+}
+.footer-link{
+  text-decoration: none;
+}
+hr{
+  height:0px;
+  border-style:none;
+  border-top-style: dotted;
+  background-color:#EEEEEE;
+  width:50%;
+  border-color:black;
+  border-width:5px;
+}
+.btn{
+  background:    #18d6c2;
+background:    linear-gradient(#18d6c2, #073763);
+border-radius: 16px;
+padding:       20px 18px;
+color:         #08def7;
+display:       inline-block;
+font:          normal bold 18px/1 "Vollkorn", serif;
+text-align:    center;
+text-shadow:   1px 1px #6d1f1f;
+text-decoration: none;
+}
+.click-gif{
+  width:250px;
+  height:250px;
+  margin-bottom: 30px;
+}
+.skill-1{
+  width:250px;
+  height:250px;
+  margin: 100px auto 100px auto;
+
+}
+.skill-2{
+  width:250px;
+  height: 250px;
+  margin: 100px auto 100px auto;
+}
+
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom:500px;
+}
+.contact-me{
+  margin-top: 30px;
+}
